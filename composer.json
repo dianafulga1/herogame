@@ -1,0 +1,17 @@
+{
+    "name": "dianafulga/hero-game",
+    "authors": [
+        {
+            "name": "Diana FULGA",
+            "email": "fulga.dd@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "autoload": {
+	    "psr-4": {
+	        "HeroGame\\": "src/"
+	    }
+	}
+}
